@@ -107,7 +107,7 @@ $(document).ready(function() {
             .on("click", showResults);
     };
 
-    var audio = 
+     
 
     var showResults = function() {
         //stop timer
